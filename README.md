@@ -4,7 +4,7 @@
 1. Fork this repository to your GitHub account.
 2. Open solution file in Visual Studio.
 3. Open file `StringTools.cs`.
-4. Implement the method `Reverse(string original)` takes a string and reverses it.
+4. Implement the method `Reverse(string original)` that takes a string and reverses it.
 5. Run with `CTRL+F5` to test it.
 6. If all tests are passed, commit & sync your repository.
 7. Send a link to your repository for Lab Master (in #slack) to check it.
